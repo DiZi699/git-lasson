@@ -1,2 +1,4 @@
+#ignore all hiden files
 .*
+#ignore all hiden files expect .gitignore
 !.gitignore
